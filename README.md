@@ -1,2 +1,6 @@
 # Gritador-
-Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
+Correção 
+
+**Enunciado**:
+
+Faça um programa repita exatamente que o usuário digitar, Gritando (em CAIXA ALTA).
